@@ -2,12 +2,12 @@
 
 #### Current
 
-Master student in School of Mathematics and Computing, Computational Science and Engineering, Yonsei Univ
+Integrated M.S./Ph.D. student in School of Mathematics and Computing, Computational Science and Engineering, Yonsei Univ
 
 
 #### Curriculum Vitae
 
-<https://drive.google.com/file/d/11J7xIxTlKQsnEXGwhNafZ3VMvIeUJEH_/view?usp=sharing>
+<https://drive.google.com/file/d/1yynBSWsgZQUKw74n5RFpiq5G3FS_Lp_J/view?usp=sharing>
 
 
 #### Contact
