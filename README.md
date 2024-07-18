@@ -14,6 +14,6 @@ Integrated M.S./Ph.D. student (2023.03~)
 
 #### Contact
 
-📫 99.islandz@gmail.com
+📫 islandz@yonsei.ac.kr
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> <img src="https://www.svgrepo.com/show/373830/matlab.svg" width="25" height="25"/>
