@@ -2,7 +2,9 @@
 
 #### Current
 
-Integrated M.S./Ph.D. student in School of Mathematics and Computing, Computational Science and Engineering, Yonsei Univ
+School of Mathematics and Computing, Computational Science and Engineering, Yonsei Univ
+
+Integrated M.S./Ph.D. student (2023.03~)
 
 
 #### Curriculum Vitae
