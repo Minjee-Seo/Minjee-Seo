@@ -1,6 +1,6 @@
 ### 🐬 I'm Minjee Seo
 
-#### Current
+#### Current in
 
 School of Mathematics and Computing, Computational Science and Engineering, Yonsei Univ
 
@@ -9,7 +9,7 @@ Integrated M.S./Ph.D. student (2023.03~)
 
 #### Curriculum Vitae
 
-<https://drive.google.com/file/d/1yynBSWsgZQUKw74n5RFpiq5G3FS_Lp_J/view?usp=sharing>
+You can get my CV from [here](https://drive.google.com/file/d/1c5Jpa641rMaAbZxx0lpFrnGy3bFagsIS/view?usp=sharing)!
 
 
 #### Contact
