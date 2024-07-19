@@ -1,5 +1,7 @@
 ### 🐬 I'm Minjee Seo
 
+🐕🏝️🍻🍾🎆🎸💿🧘👻
+
 #### Current in
 
 School of Mathematics and Computing, Computational Science and Engineering, Yonsei Univ
