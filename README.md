@@ -4,7 +4,7 @@
 
 #### Current
 
-Researcher of Computational Methods in Medical Enginerring (CMME) Lab
+Researcher of [Computational Methods in Medical Enginerring (CMME) Lab](https://sites.google.com/view/yoonlabyonsei/)
 
 Interested in : Medical AI, Generative AI, Neural operators, Computational modeling
 
@@ -12,7 +12,7 @@ Interested in : Medical AI, Generative AI, Neural operators, Computational model
 
 B.S. in Mechanical and Biomedical Engineering, Ewha W.Univ (~2023.02)
 
-Integrated M.S./Ph.D. student in School of Mathematics and Computing, Computational Science and Engineering, Yonsei Univ (2023.03~)
+Integrated M.S./Ph.D. student in School of Mathematics and Computing (Computational Science and Engineering), Yonsei Univ (2023.03~)
 
 #### Curriculum Vitae
 
