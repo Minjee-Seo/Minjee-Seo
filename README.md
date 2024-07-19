@@ -10,7 +10,7 @@ Interested in : Medical AI, Generative AI, Neural operators, Computational model
 
 #### Education
 
-B.S. in Mechanical and Biomedical Engineering, Ewha Univ (~2023.02)
+B.S. in Mechanical and Biomedical Engineering, Ewha W.Univ (~2023.02)
 
 Integrated M.S./Ph.D. student in School of Mathematics and Computing, Computational Science and Engineering, Yonsei Univ (2023.03~)
 
