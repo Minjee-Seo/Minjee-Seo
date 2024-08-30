@@ -26,4 +26,4 @@ You can get my CV from [here](https://drive.google.com/file/d/1c5Jpa641rMaAbZxx0
 
 📫 islandz@yonsei.ac.kr
 👩‍💻 [tech blog](https://minmiin.tistory.com)
-🔎 [@minmiin__](https://instagram.com/minmiin__)
+🔎 [linktree](https://linktr.ee/minmiin)
