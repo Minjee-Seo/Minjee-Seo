@@ -16,7 +16,7 @@ Integrated M.S./Ph.D. student in School of Mathematics and Computing (Computatio
 
 #### Curriculum Vitae
 
-You can get my CV from [here](https://drive.google.com/file/d/1c5Jpa641rMaAbZxx0lpFrnGy3bFagsIS/view?usp=sharing)
+You can get my CV from [here](https://drive.google.com/file/d/1PnQjiTVA7OMEDG4gW2cv8uxXaHL7r9ly/view?usp=sharing)
 
 #### Preferred language
 
