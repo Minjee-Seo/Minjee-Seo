@@ -22,7 +22,7 @@ You can get my CV from [here](https://drive.google.com/file/d/1PnQjiTVA7OMEDG4gW
 
 #### Contact
 
-📫 islandz@yonsei.ac.kr<br/>
+📫 [email](mailto:islandz@yonsei.ac.kr)<br/>
 🏠 [homepage](https://minjee-seo.github.io)<br/>
 👩‍💻 [tech blog](https://minmiin.tistory.com)<br/>
 🔎 [linktree](https://linktr.ee/minmiin)<br/>
