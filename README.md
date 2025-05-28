@@ -14,7 +14,7 @@ Integrated M.S./Ph.D. in School of Mathematics and Computing (Computational Scie
 
 #### Curriculum Vitae
 
-You can get my CV from [here](https://drive.google.com/file/d/1PnQjiTVA7OMEDG4gW2cv8uxXaHL7r9ly/view?usp=sharing)
+You can get my CV from [here](https://drive.google.com/file/d/1_Fv8rdsWhKwEJTk-v9WSh8Di4kqMXXvV/view?usp=drive_link)
 
 #### Preferred language
 
