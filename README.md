@@ -5,7 +5,7 @@
 #### Current
 
 Researcher of [Computational Methods in Medical Engineering (CMME) Lab](https://sites.google.com/view/yoonlabyonsei/)<br/>
-Interested in : Medical AI, Generative AI, Neural operators, Computational modeling
+Interested in : Medical AI, Generative AI, Scientific Machine Learning, Computational modeling
 
 #### Education
 
